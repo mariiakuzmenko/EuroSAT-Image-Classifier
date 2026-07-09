@@ -10,9 +10,9 @@ A Convolutional Neural Network (CNN) built with PyTorch that classifies satellit
 ## Results
 The model was trained on the EuroSAT dataset and achieved high accuracy on the validation set. 
 
-`![Training Curves](assets/plots/training_curves.png)`
+![Training Curves](assets/plots/training_curves.png)
 
-`![Confusion Matrix](assets/plots/confusion_matrix.png)`
+![Confusion Matrix](assets/plots/confusion_matrix.png)
 
 ## How to Run Locally
 *Note: The specific dataset split used to train this model was provided securely by Johannes Kepler University for an academic examination and is not hosted in this repository.*
