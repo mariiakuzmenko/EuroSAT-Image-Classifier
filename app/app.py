@@ -1,5 +1,3 @@
-# Mariia Kuzmenko k12550768
-
 import PIL.Image
 import numpy as np
 import pandas as pd
