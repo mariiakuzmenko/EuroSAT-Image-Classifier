@@ -1,0 +1,14 @@
+# Data and Weights (Too heavy for GitHub)
+data/
+public_test_data/
+assets/weights/
+*.pth
+
+# Generated Outputs
+submission.csv
+
+# Junk Files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
